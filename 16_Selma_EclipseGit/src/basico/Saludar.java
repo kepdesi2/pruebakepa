@@ -6,7 +6,7 @@ public class Saludar {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hola soy Selma (modificado)");
-		System.out.println("Hola soy Selma y te modifico");
+		System.out.println("Hola soy Selma y te (modifico)");
 	}
 
 }
